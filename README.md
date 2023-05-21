@@ -5,7 +5,7 @@
         I'm Piotr/MikyTuberr.<br>
         I am interested in programming games and optimalizing them, mainly in C++. 
         I also enjoy learning about algorithms and data structures.
-        My hobbies are sports and music :).
+        My hobbies are sports and music, but mainly I love playing computer games, such as The Witcher 3, and learning physics.
     </i><br> 
 </p>
 

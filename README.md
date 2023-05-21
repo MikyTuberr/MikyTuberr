@@ -16,6 +16,6 @@
 <p>HTML<img src="https://github.com/MikyTuberr/MikyTuberr/raw/main/html.png" alt="html" width="20" height="20"></p>
 <p>CSS<img src="https://github.com/MikyTuberr/MikyTuberr/raw/main/css.png" alt="css" width="20" height="20"></p>
 <p>PHP<img src="https://github.com/MikyTuberr/MikyTuberr/raw/main/php.png" alt="php" width="20" height="20"></p>
-<p>Bash<img src="https://github.com/MikyTuberr/MikyTuberr/raw/main/bashh.png" alt="bashh" width="20" height="20"></p>
+<p>Bash<img src="https://github.com/MikyTuberr/MikyTuberr/raw/main/bash.png" alt="bash" width="20" height="20"></p>
 
 

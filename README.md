@@ -9,4 +9,13 @@
     </i><br> 
 </p>
 
+###Languages
+Java: :java:
+C++: :cplusplus:
+C: :c:
+HTML: :html:
+CSS: :css:
+PHP: :php:
+
+
 

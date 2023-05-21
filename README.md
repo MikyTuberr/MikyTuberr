@@ -10,9 +10,10 @@
 </p>
 
 ### Languages
+
 <div style="display: flex; flex-direction: column; align-items: center; text-align: center; border: 1px solid black; padding: 10px;">
-  <h3>Java</h3>
-  <img src="https://github.com/MikyTuberr/MikyTuberr/raw/main/java.png" alt="Java" style="max-width: 100%; max-height: 200px; margin: auto;">
+  <h4>Java</h4>
+  <img src="https://github.com/MikyTuberr/MikyTuberr/raw/main/java.png" alt="Java" style="max-width: 50%; max-height: 100px; margin: auto;">
 </div>
 
 <p>C++<img src="https://github.com/MikyTuberr/MikyTuberr/raw/main/cpp.png" alt="cpp" width="20" height="20"></p>

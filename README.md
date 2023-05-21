@@ -10,9 +10,11 @@
 </p>
 
 ### Languages
-<div style="display: inline-block; border: 1px solid black; padding: 10px;">
-  <h3>Java<img src="https://github.com/MikyTuberr/MikyTuberr/raw/main/java.png" alt="Java" width="20" height="20"></h3>
+<div style="display: flex; flex-direction: column; align-items: center; text-align: center; border: 1px solid black; padding: 10px;">
+  <h3>Java</h3>
+  <img src="https://github.com/MikyTuberr/MikyTuberr/raw/main/java.png" alt="Java" width="20" height="20">
 </div>
+
 <p>C++<img src="https://github.com/MikyTuberr/MikyTuberr/raw/main/cpp.png" alt="cpp" width="20" height="20"></p>
 <p>C<img src="https://github.com/MikyTuberr/MikyTuberr/raw/main/c.png" alt="c" width="20" height="20"></p>
 <p>HTML<img src="https://github.com/MikyTuberr/MikyTuberr/raw/main/html.png" alt="html" width="20" height="20"></p>

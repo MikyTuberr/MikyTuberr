@@ -11,11 +11,8 @@
 
 ### Languages
 
-<div style="display: flex; flex-direction: column; align-items: center; text-align: center; border: 1px solid black; padding: 10px;">
-  <h4>Java</h4>
-  <img src="https://github.com/MikyTuberr/MikyTuberr/raw/main/java.png" alt="Java" style="max-width: 20%; max-height: 50px; margin: auto;">
-</div>
 
+<p>Java<img src="https://github.com/MikyTuberr/MikyTuberr/raw/main/java.png" alt="Java" width="20" height="20"></p>
 <p>C++<img src="https://github.com/MikyTuberr/MikyTuberr/raw/main/cpp.png" alt="cpp" width="20" height="20"></p>
 <p>C<img src="https://github.com/MikyTuberr/MikyTuberr/raw/main/c.png" alt="c" width="20" height="20"></p>
 <p>HTML<img src="https://github.com/MikyTuberr/MikyTuberr/raw/main/html.png" alt="html" width="20" height="20"></p>

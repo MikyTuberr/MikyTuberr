@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-    Programming Languages 
+    <b>Programming Languages<b> 
         <div align="center">
             <img src="https://github.com/MikyTuberr/MikyTuberr/raw/main/java.png" alt="Java" width="30" height="30">
             <img src="https://github.com/MikyTuberr/MikyTuberr/raw/main/cpp.png" alt="cpp" width="20" height="20">

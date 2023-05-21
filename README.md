@@ -10,7 +10,7 @@
 </p>
 
 ### Languages
-<p>Java <img src="[ścieżka/do/emotikony.png](https://github.com/MikyTuberr/MikyTuberr/edit/main/java.png)" alt="Java"></p>
+<p>Java <img src="https://github.com/MikyTuberr/MikyTuberr/raw/main/java.png" alt="Java"></p>
 <p>C++</p>
 <p>C</p>
 <p>HTML</p>

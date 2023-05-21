@@ -10,12 +10,12 @@
 </p>
 
 ### Languages
-Java
-C++
-C
-HTML
-CSS
-PHP
+<p>Java</p>
+<p>C++</p>
+<p>C</p>
+<p>HTML</p>
+<p>CSS</p>
+<p>PHP</p>
 
 
 

@@ -10,7 +10,7 @@
 </p>
 
 ### Languages
-<p>Java <img src="https://github.com/MikyTuberr/MikyTuberr/raw/main/java.png" alt="Java"  width="30" height="30"></p>
+<p>Java <span style="display: inline-block; width: 20px; height: 20px; background-image: url('https://github.com/MikyTuberr/MikyTuberr/raw/main/java.png'); background-size: contain; background-repeat: no-repeat;"></span></p>
 <p>C++</p>
 <p>C</p>
 <p>HTML</p>

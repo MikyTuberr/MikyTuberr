@@ -10,7 +10,7 @@
 </p>
 
 ### Languages
-<p>Java <img src="https://github.com/MikyTuberr/MikyTuberr/raw/main/java.png" alt="Java"  width="20" height="20"></p>
+<p>Java <img src="https://github.com/MikyTuberr/MikyTuberr/raw/main/java.png" alt="Java"  width="30" height="30"></p>
 <p>C++</p>
 <p>C</p>
 <p>HTML</p>

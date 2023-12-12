@@ -38,12 +38,13 @@
                                                                                                                             
   </p>
   <p>
-    <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="md-lang"/>                                                                                       <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="bash-lang"/>                                  
+    <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="md-lang"/>                                                                       
+    <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="bash-lang"/>                                  
   </p>
 
   <h2>🌐 Socials:</h2>
   <p>
-    <a href="https://www.linkedin.com/in/piotr-lachowicz-47069b277/" target="_blank">
+    <a href="https://www.linkedin.com/in/piotr-lachowicz-47069b277/" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href); return false;">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="linkedin-link"/>
     </a>
   </p>

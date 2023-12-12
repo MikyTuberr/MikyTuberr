@@ -43,6 +43,6 @@
 
   <h2>🌐 Socials:</h2>
   <p>
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" href="https://linkedin.com/in/piotr-lachowicz" alt="linkedin-link"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" href="[https://linkedin.com/in/piotr-lachowicz](https://www.linkedin.com/in/piotr-lachowicz-47069b277/)https://www.linkedin.com/in/piotr-lachowicz-47069b277/" alt="linkedin-link"/>
   </p>
 </div>

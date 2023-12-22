@@ -18,9 +18,6 @@
   <h1>📊 GitHub Stats:</h1>
   <br>
     <p>
-      <img src="https://github-readme-stats.vercel.app/api?username=MikyTuberr&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true" alt="github-stats"/>
-    </p>
-    <p>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=MikyTuberr&theme=midnight-purple&hide_border=false" alt="github-streak-stats"/>
     </p>
     <p>

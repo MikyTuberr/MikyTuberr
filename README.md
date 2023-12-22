@@ -11,9 +11,7 @@
   <br>
   <h1>🔭 I’m currently working on</h1>
   <br>
-  
-  [MTE 2D game engine](https://github.com/MikyTuberr/MTE)
-  
+    <a href="https://github.com/MikyTuberr/MTE" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MTE%202D%20Game%20Engine-blue.svg" alt="MTE"/> </a> 
   <br>
   <h1>📊 GitHub Stats:</h1>
   <br>

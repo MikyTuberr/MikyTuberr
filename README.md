@@ -27,7 +27,6 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikyTuberr&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="most-used-languages"/>
     </p>
   <h1>💻 Tech Stack:</h1>
-  <br>
         <p>
           <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> &nbsp
           <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> &nbsp
@@ -47,7 +46,6 @@
           <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> &nbsp
         </p>
   <h1>🌐 Socials:</h1>
-  <br>
   <p>
     <a href="https://linkedin.com/in/https://www.linkedin.com/in/piotr-lachowicz-47069b277/details/skills/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/piotr-lachowicz-47069b277/details/skills/" height="30" width="40" /></a>
   </p>

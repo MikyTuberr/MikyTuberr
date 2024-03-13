@@ -1,7 +1,6 @@
 <div align="center">
   <h1> 💫 About Me:</h1>
   <br>
-    <div align="left">
       <p>
         <b> 👋 Hey there! I'm Piotr/MikyTuberr, a programmer proficient in C and C++. My passions revolve around algorithm analysis, data structures, computer architecture, artificial intelligence, and game development.</b>
       </p>
@@ -11,7 +10,6 @@
       <p>
         <b> 🎮 Game development is another area where I excel. Whether it's crafting AI systems or optimizing performance, I love diving into the world of gaming to create immersive experiences.</b>
       </p>
-    </div>
   <h1>🔭 I’m currently working on</h1>
   <br>
     <a href="https://github.com/MikyTuberr/MTE" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MTE%202D%20Game%20Engine-blue.svg" alt="MTE"/> </a> 

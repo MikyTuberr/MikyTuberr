@@ -6,7 +6,7 @@
   <br>
   <b>I am interested in programming games and optimizing them, mainly in C++. 
   I also enjoy learning about algorithms and data structures.
-  My hobbies include sports and music, but my main passion lies in playing computer games, such as The Witcher 3, and learning physics.</b>
+  My hobbies include sports and music, but my main passion lies in playing computer games, and learning physics.</b>
   </p>
 
   <h1>🔭 I’m currently working on</h1>

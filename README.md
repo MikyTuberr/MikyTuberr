@@ -2,7 +2,7 @@
   <h1> 💫 About Me:</h1>
   <br>
       <p>
-        <b> 👋 Hey there! I'm Piotr/MikyTuberr, a programmer proficient in C and C++. My passions revolve around algorithm analysis, data structures, computer architecture, artificial intelligence, and game development.</b>
+        <b> 👋 Hey there! I'm Piotr/MikyTuberr, a programmer proficient in C, C++ and C#. My passions revolve around algorithm analysis, data structures, computer architecture, artificial intelligence, and game development.</b>
       </p>
       <p>
         <b> 💻 I thrive on optimizing code, exploring complex algorithms, and understanding the intricacies of computer systems. I'm continuously learning and pushing the boundaries of my knowledge in these areas.</b>

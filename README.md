@@ -10,10 +10,6 @@
       <p>
         <b> 🎮 Game development is another area where I excel. Whether it's crafting AI systems or optimizing performance, I love diving into the world of gaming to create immersive experiences.</b>
       </p>
-  <h1>🔭 I’m currently working on</h1>
-  <br>
-    <a href="https://github.com/MikyTuberr/MTE" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MTE%202D%20Game%20Engine-blue.svg" alt="MTE"/> </a> 
-  <br><br>
   <h1>📊 GitHub Stats:</h1>
   <br>
     <p>

@@ -1,15 +1,12 @@
 <div align="center">
-  <h1> 💫 About Me:</h1>
+  <h1>💫 About Me:</h1>
   <br>
-      <p>
-        <b> 👋 Hey there! I'm Piotr/MikyTuberr, a programmer proficient in C, C++ and C#. My passions revolve around algorithm analysis, data structures, computer architecture, artificial intelligence, and game development.</b>
-      </p>
-      <p>
-        <b> 💻 I thrive on optimizing code, exploring complex algorithms, and understanding the intricacies of computer systems. I'm continuously learning and pushing the boundaries of my knowledge in these areas.</b>
-      </p>
-      <p>
-        <b> 🎮 Game development is another area where I excel. Whether it's crafting AI systems or optimizing performance, I love diving into the world of gaming to create immersive experiences.</b>
-      </p>
+  <p>
+    <b>👋 Hey there! I'm Piotr/MikyTuberr, a programmer proficient in C, C++, and C#. While I have a solid background in algorithm analysis, data structures, computer architecture, artificial intelligence, and game development, my current focus is on web development.</b>
+  </p>
+  <p>
+    <b>💻 I thrive on optimizing code and exploring complex algorithms, which translates into creating efficient, high-performance web applications. I am adept at both front-end and back-end development, ensuring seamless user experiences and robust system architectures.</b>
+  </p>
   <h1>📊 GitHub Stats:</h1>
   <br>
     <p>

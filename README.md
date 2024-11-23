@@ -2,7 +2,7 @@
   <h1>💫 About Me:</h1>
   <br>
   <p>
-    <b>👋 Hey there! I'm Piotr/MikyTuberr, a programmer proficient in C, C++, and C#. While I have a solid background in algorithm analysis, data structures, computer architecture, artificial intelligence, and game development, my current focus is on web development.</b>
+    <b>👋 Hey there! I'm Piotr/MikyTuberr, a programmer proficient in C, C++, and C#. I have a solid background in algorithm analysis, data structures, computer architecture, artificial intelligence and game development.</b>
   </p>
   <p>
     <b>💻 I thrive on optimizing code and exploring complex algorithms, which translates into creating efficient, high-performance web applications. I am adept at both front-end and back-end development, ensuring seamless user experiences and robust system architectures.</b>

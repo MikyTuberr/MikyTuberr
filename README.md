@@ -2,10 +2,10 @@
   <h1>💫 About Me:</h1>
   <br>
   <p>
-    <b>👋 Hey there! I'm Piotr/MikyTuberr, a programmer proficient in C, C++, and C#. I have a solid background in algorithm analysis, data structures, computer architecture, artificial intelligence and game development.</b>
+    <b>👋 Hey there! I'm Piotr/MikyTuberr, a programmer with a passion for innovation and problem-solving. Currently, I am working on a <a href="https://github.com/VirtualRecovery/VirtualRecovery" target="_blank">VR application in Unity</a> aimed at assisting people in rehabilitation after strokes.</b>
   </p>
   <p>
-    <b>💻 I thrive on optimizing code and exploring complex algorithms, which translates into creating efficient, high-performance web applications. I am adept at both front-end and back-end development, ensuring seamless user experiences and robust system architectures.</b>
+    <b>💻 My interests and expertise include C++, C#, artificial intelligence, data structures, and algorithms. I thrive on optimizing code and developing creative solutions for complex problems, ensuring high-performance and user-centered applications.</b>
   </p>
   <h1>📊 GitHub Stats:</h1>
   <br>

@@ -26,7 +26,7 @@
   <h2>💻 Tech Stack:</h1>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=unity,cs,cpp,java,py"/>
+      <img src="https://skillicons.dev/icons?i=verilog,c,cpp,cs"/>
     </a>
   </p>
 </div>

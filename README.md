@@ -2,7 +2,7 @@
   <h2>💫 About Me:</h1>
 <p>
     🚀 <b>Software Developer & Embedded Enthusiast</b> <br><br>
-    I am currently a <b>Master of Science (MSc) student</b> in Electronics and Telecommunication, 
+    I am currently a <b>Master of Engineering (MEng) student</b> in Electronics and Telecommunication, at Gdańsk University of Technology, 
     having already earned my <b>Engineer's degree (BEng) in Computer Science</b>. 
     Professionally, I work as a <b>C# Software Developer</b>, 
     but my heart stays close to the hardware. <br><br>
